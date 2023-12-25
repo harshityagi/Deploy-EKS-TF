@@ -1,4 +1,3 @@
-/*
 terraform {
   backend "s3" {
     bucket = "harshit-learning-app-972467647748"
@@ -6,4 +5,3 @@ terraform {
     key = "eks/terraform.tfstate"
   }
 }
-*/
